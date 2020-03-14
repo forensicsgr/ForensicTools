@@ -1,0 +1,1 @@
+Belkasoft RAM Capturer offers forensic specialists the ability to take snapshots of the computer’s volatile memory (memory dumps) even if an anti-dumping protection is active. The supplied kernel-mode driver can successfully capture memory content of applications protecting their working set against dumping, including chats occurring in Karos and other MMORPG games. 

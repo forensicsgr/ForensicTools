@@ -1,0 +1,1 @@
+Extracts RAM dump including that protected by an anti-debugging or anti-dumping system. 32 and 64 bit builds
